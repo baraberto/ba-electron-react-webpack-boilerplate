@@ -21,7 +21,6 @@ Construir a sua aplicação com:
 
 * [Instalar](#Instalar)
 * [Utilizar](#Utilizar)
-* [Code of Conduct](#code-of-conduct)
 * [License | Licença](#license)
 
 ### Instalar
