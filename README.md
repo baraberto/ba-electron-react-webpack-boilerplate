@@ -7,18 +7,17 @@
 ## Electron, React, Webpack para começar o seu próximo mambo.
 
 Construir a sua aplicação com:
-    - [React](https://reactjs.org) [documentação](https://reactjs.org/docs/getting-started.html) [repositório](https://github.com/facebook/react/)
-        para construir a sua interface de forma declarativa, baseada em componentes.
-    - [Electron](https://electronjs.org/) [documentação](https://electronjs.org/docs) [repositório](https://github.com/electron/electron)
-        correr nativamente em Windows, Linux e OSX
-    - [Webpack](https://webpack.js.org/) [documentação](https://webpack.js.org/concepts/) [repositório](https://github.com/webpack/webpack)
-        escrevendo o javascript de amanhã
-    - [flow](https://flow.org/) [documentação](https://flow.org/en/docs/) [repositório](https://github.com/facebook/flow)
-        com sua Com validação de tipos
-    - [eslint](https://eslint.org/) [prettier](https://prettier.io/)
-        Código legível com a melhores práticas e formatação automática
+- [React](https://reactjs.org) para construir a sua interface de forma declarativa, baseada em componentes [documentação](https://reactjs.org/docs/getting-started.html) [repositório](https://github.com/facebook/react/)
 
-### Table of contents
+- [Electron](https://electronjs.org/) a correr nativamente em Windows, Linux e OSX [documentação](https://electronjs.org/docs) [repositório](https://github.com/electron/electron)
+
+- [Webpack](https://webpack.js.org/) escrevendo o javascript de amanhã [documentação](https://webpack.js.org/concepts/) [repositório](https://github.com/webpack/webpack)
+
+- [flow](https://flow.org/) com sua Com validação de tipos [documentação](https://flow.org/en/docs/) [repositório](https://github.com/facebook/flow)
+
+- [eslint](https://eslint.org/) código legível com a melhores práticas e formatação automática [prettier](https://prettier.io/)
+
+### Índice
 
 * [Instalar](#Instalar)
 * [Utilizar](#Utilizar)
