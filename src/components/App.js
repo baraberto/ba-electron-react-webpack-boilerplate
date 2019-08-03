@@ -1,15 +1,20 @@
 import '../assets/css/App.css';
-import React, { Component } from 'react';
+import logo from '../assets/logo.svg';
 
-class App extends React.Component {
-  render() {
-    return (
-      <div>
-        <h1>Hello, Electron!</h1>
-        <p>I hope you enjoy using basic-electron-react-boilerplate to start your dev off right!</p>
-      </div>
-    );
-  }
-}
+import React from 'react';
+
+const App = () => (
+  <div className="App">
+    <header className="App-header">
+      <img src={logo} className="App-logo" alt="logo" />
+      <p>
+        Editar <code>src/components/App.js</code> e salvar para actualizar.
+      </p>
+      <a className="App-link" href="https://reactjs.org" target="_blank" rel="noopener noreferrer">
+        Aprender React
+      </a>
+    </header>
+  </div>
+);
 
 export default App;
