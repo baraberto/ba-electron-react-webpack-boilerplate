@@ -1,3 +1,5 @@
+// @flow
+
 import '../assets/css/App.css';
 import logo from '../assets/logo.svg';
 

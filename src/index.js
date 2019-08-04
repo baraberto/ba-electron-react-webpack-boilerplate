@@ -1,3 +1,4 @@
+// @flow
 import React from 'react';
 import './assets/css/index.css';
 import { render } from 'react-dom';
